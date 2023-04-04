@@ -1,0 +1,29 @@
+/***** ============ PIED ET BLOCPIED , BAS DE PAGE , ALIGNEMENT ================== ******/
+
+
+.bloc-du-pied {
+  width: 100%;
+  background: #F2F2F2;
+  height: 300px;
+  display: flex;
+  padding-top: 40px;
+  margin-left: 0;
+}
+
+.section-pied {
+  flex: 1;
+  margin-left: 40px;
+}
+
+footer h4 {
+  font-weight: 700;
+  font-size: 119%;
+  line-height: 50px;
+  font-family: "Raleway"
+}
+footer a {
+  line-height: 30px;
+  color: rgb(59, 59, 59);
+  font-family: "Raleway";
+  font-weight: 400;
+}
